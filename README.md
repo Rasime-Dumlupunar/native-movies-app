@@ -20,3 +20,5 @@ Bu proje, Expo kullanarak geliştirilmiş bir film uygulamasıdır. Kullanıcıl
 - **NativeWind**
 - **Heroicons** 
 - **Snap Carousel** 
+
+![](https://github.com/Rasime-Dumlupunar/native-movies-app/blob/main/movie-app-.gif)
